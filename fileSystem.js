@@ -77,10 +77,10 @@ productos.deleteProductById(2)
 
 productos.updateProducts({
     title: 'titulo1',
-    description: 'Descripcion1',
+    description: 'Blablablablabla',
     price: 1999,
-    imagen: 'imagen1',
-    code: 'abc123',
+    thumbnail: 'imagen1',
+    code: 'code3',
     stock: 5,
     id: 1
 })
